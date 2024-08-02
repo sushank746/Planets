@@ -1,0 +1,245 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+.frst{
+    color: white;
+}
+.frst #ll{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 135px;
+    margin-top: -60px;
+}
+.frst #one{
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
+.frst a{
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+    display: inline-flex;
+    float: right;
+    margin-right: 3cm;
+    margin-top: -18px;
+}
+.frst a:hover{
+    cursor: pointer;
+    color: red;
+    transition: 1s;
+}
+.frst h1{
+    -webkit-text-fill-color: white;
+    font-family: sans-serif;
+    font-size: 125px;
+    margin-top: -600px;
+    letter-spacing: 3cm;
+    margin-left: 150px;
+}
+.frst #two{
+    opacity: 0.5;
+    height: 800px;
+    width: 1500px;
+    margin-top: 50px;
+}
+.frst #pp{
+    -webkit-text-fill-color: white;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 100px;
+    font-size: 25px;
+}
+.frst #ss{
+    font-family: sans-serif;
+    font-size: 15px;
+    word-spacing: 4cm;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.frst #no{
+    font-family: sans-serif;
+    font-size: 20px;
+    word-spacing: 2cm;
+    margin-left: 100px;
+}
+#sol{
+    width: 1500px;
+}
+.sec img{
+    width: 1500px;
+    margin-top: 100px;
+    opacity: 0.5;
+}
+.sec span{
+    font-size: 100px;
+    color: blue;
+}
+.sec p{
+    font-family: sans-serif;
+    color: white;
+    margin-top: -800px;
+    margin-left: 200px;
+    font-size: 60px;
+    box-shadow: 50px, white;
+}
+.sec #para{
+    color: white;
+    font-size: 25px;
+    margin-top: 100px;
+}
+.fea span{
+    font-size: 150px;
+    color: blue;
+}
+.fea p{
+    font-size: 60px;
+    margin-top: 500px;
+    margin-right: 100px;
+    float: right;
+}
+.fea img{
+    margin-top: 100px;
+    width: 1500px;
+    opacity: 0.5;
+}
+.fea #blu{
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 700px;
+    margin-right: 300px;
+}
+.fea h5{
+    color: white;
+    float: right;
+    font-size: 40px;
+    margin-top: -700px;
+    margin-right: 450px;
+}
+.fea #pel{
+    color: white;
+    font-size: 20px;
+    margin-top: -650px;
+}
+.fea #eight{
+    width: 80px;
+    height: 80px;
+    float: right;
+    margin-top: -500px;
+    margin-right: 600px;
+}
+.fea #eeo{
+    color: white;
+    font-size: 20px;
+    margin-top: -475px;
+    margin-right: 200px;
+}
+.fea #sto{
+    width: 80px;
+    height: 70px;
+    float: right;
+    margin-top: -400px;
+    margin-right: 600px;
+}
+.fea #st{
+    color: white;
+    font-size: 20px;
+    margin-top: -375px;
+    margin-right: 200px;
+}
+.thi span{
+     font-size: 150px;
+     color: blue;
+}
+.thi p{
+    margin-left: 50px;
+    font-size: 60px;
+    color: white;
+    
+}
+.thi #dept{
+    font-size: 20px;
+    margin-left: 200px;
+}
+.thi #docs{
+    font-size: 15px;
+    margin-left: 100px;
+}
+.thi #ddoc{
+    font-size: 15px;
+    margin-left: 100px;
+}
+.thi img{
+    margin-left: 600px;
+    margin-top: -250px;
+    height: 350px;
+    width: 350px;
+}
+.thi h6{
+    font-size: 15px;
+    float: right;
+    margin-right: 200px;
+    margin-top: -200px;
+}
+.forth span{
+    margin-top: 200px;
+    font-size: 150px;
+    color: blue;
+}
+.forth p{
+    font-size: 60px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 200px;
+}
+.forth #moon{
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 700px;
+}
+.forth #sysy{
+    height: 700px;
+    width: 900px;
+    margin-top: -200px;
+}
+.forth h1{
+    font-size: 28px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 500px;
+    color: white;
+}
+.forth ul{
+    font-size: 15px;
+    float: right;
+    margin-top: -300px;
+    margin-right: 280px;
+}
+.foot #foot{
+    height: 800px;
+    width: 1500px;
+    opacity: 0.7;
+}
+.foot footer{
+    margin-top: 300px;
+    text-align: center;
+}
+.foot h1{
+    margin-top: -500px;
+    margin-left: 100px;
+    font-size: 80px;
+}
+.foot button{
+    margin-left: 100px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.foot button:hover{
+    cursor: pointer;;
+    color: red;
+    transition: 1s;
+}
